@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliver-code1,
 - 👀 I’m interested in web applications, mobile applications, software technologies, etcetera.
-- 🌱 I’m currently learning python programming language and web programming languages (html and css).
+- 🌱 I’m currently learning python programming language and web development languages (html, css and Javacript).
 - 💞️ I’m looking to collaborate on any project based on the above stated technologies.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
